@@ -40,7 +40,7 @@ export function renderRadarChart(canvas: HTMLCanvasElement, skills: SkillScore[]
           backgroundColor: 'rgba(255, 255, 255, 0.95)',
           titleColor: '#0f172a',
           bodyColor: '#475569',
-          titleFont: { family: 'Inter', size: 12, weight: '600' },
+          titleFont: { family: 'Inter', size: 12, weight: 600 },
           bodyFont: { family: 'JetBrains Mono', size: 12 },
           borderColor: 'rgba(0, 0, 0, 0.1)',
           borderWidth: 1,
@@ -69,7 +69,7 @@ export function renderRadarChart(canvas: HTMLCanvasElement, skills: SkillScore[]
           },
           pointLabels: {
             color: '#475569',
-            font: { family: 'Inter', size: 11, weight: '600' },
+            font: { family: 'Inter', size: 11, weight: 600 },
           },
         },
       },
