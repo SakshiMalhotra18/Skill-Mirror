@@ -1,6 +1,5 @@
 # SkillMirror — AI Hiring Intelligence
 
-![SkillMirror Banner](public/banner.png)
 
 **SkillMirror** is a high-end, AI-powered candidate evaluation tool designed for senior hiring panels and engineering managers. It provides brutally honest, structured analysis of candidate profiles, focusing on deep technical signals, enterprise maturity, and market positioning.
 
